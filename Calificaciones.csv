@@ -1,7 +1,7 @@
 Cédula,E1,E2,E3,TF,T,T1,T2,T3,T4,T5,T6,T7,T8 ,T9,T10,T11,T12,Descripción,Comentarios
 1040047210,,,,,,,,,,,,,,,,,,T1:,
 1007322018,3.5,5,5,5,,5,5,5,5,2,5,,,,,,,T2:,E1: Doi no obtenidos
-1036645734,3.5,4,4.5,,,5,5,5,4,,,,,,,,,T3: Pandas, E1: no dois; E2: era pi/4 no un rango; E3: faltó error
+1036645734,3.5,4,4.5,5,,5,5,5,4,0,,,,,,,,T3: Pandas, E1: no dois; E2: era pi/4 no un rango; E3: faltó error
 15516857  ,,,,,,5,5,,5,,,,,,,,,T4: Transformaciones binarias,
 1001010600,2,5,5,5,,5,5,2,4,5,5,,,,,,,T5: Bisección, E1: Código no funciona
 1104431066,5,4,5,4,,5,5,5,5,5,5,,,,,,,T6: Polinomios de Lagrange,E2: bad eigenvalues: TF: Falta teoría
